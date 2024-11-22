@@ -1,0 +1,14 @@
+https://www.mongodb.com/products/platform/atlas-database
+Sign in
+email :goni92478@gmail.com
+passwor:babhelniplat
+
+Select Database & then browse collection
+
+Admin login
+username : admin
+password: 1324
+
+user login
+Username:Osman
+password:1234

@@ -1,0 +1,23 @@
+@section nav {
+    Html.partial("_nav")
+}
+<div>
+    <h1>Admin Panel</h1>
+    <div class="box-container">
+        <a class="big-box" href="/categories">
+        
+        
+        <img src="/images/category.svg" style="width:60px" />
+        <span style="font-size:1.1rem;font-weight:500">Categories</span>
+        </a>
+        <a class="big-box" href="/products">
+             <img src="/images/products.svg" style="width:60px" />
+            <span style="font-size:1.1rem;font-weight:500">Products</span>
+        </a>
+        <a class="big-box" href="/admin-order">
+          <img src="/images/order.svg" style="width:60px" />
+          <span style="font-size:1.1rem;font-weight:500">Orders</span>
+        </a>
+    </div>
+</div>
+ 
